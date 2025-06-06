@@ -4,7 +4,7 @@
 
 // isi dengan nama dan password wifi kamu
 const char* ssid = "NAMA_WIFI";
-const char* password = "NAMA_WIFI";
+const char* password = "PASSWORD_WIFI";
 
 ESP8266WebServer server(80);
 
